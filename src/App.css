@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.main-bg {
+  height: 300px;
+  background-image: url('./img/bg.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.productClass {
+  display: flex;
+  border-top: solid 1px gray;
+}
+
+.button-bg {
+  text-align: right;
+  margin-right: 16%;
+}
+
+.alert  {
+  background-color: rgb(214, 214, 136);
+}
+
+.col-md-6 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
